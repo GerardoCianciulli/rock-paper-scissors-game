@@ -92,7 +92,8 @@ $(document).ready(function(){
         }, 250);
     });
 
-    window.addEventListener("resize", function(){ // When resizing the window restart game sequence
+    // When resizing the window close rules modal andrestart the game sequence
+    window.addEventListener("resize", function(){ 
         $(".close").trigger("click")
         $(".play-again>button").trigger("click")
     });
