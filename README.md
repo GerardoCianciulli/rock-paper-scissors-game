@@ -60,6 +60,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - jQuery
 - HTML Web Storage API
 - Media Queries
+- Mobile-first approach
 
 ## Author
 
