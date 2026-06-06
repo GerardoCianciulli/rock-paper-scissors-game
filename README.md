@@ -2,26 +2,28 @@
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./assets/design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
+This is a solution to the [Rock, Paper, Scissors game challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
+- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Rules](#rules)
   - [Links](#links)
+- [My process](#my-process)
   - [Built with](#built-with)
-  - [Author](#author)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-## The challenge
+## Overview
 
-Build out a Rock, Paper, Scissors game and get it looking as close to the design as possible.
-(https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH) 
+### The challenge
+
+Build out a Rock, Paper, Scissors game and get it looking as close to the figma design as possible.
 
 Your users should be able to:
 
-- View the optimal layout for the game depending on their device's screen size
+- View the optimal layout for the game depending on their device's screen size (mobile or desktop)
 - Play Rock, Paper, Scissors, Lizard, Spock against the computer
 - Maintain the state of the score after refreshing the browser
 
@@ -40,20 +42,28 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - Lizard beats Paper
 - Spock beats Rock
 
+![Design preview for the Rock, Paper, Scissors coding challenge](./assets/design/desktop-rules-modal-bonus.jpg)
+
 ### Links
 
-- Solution URL: [Frontend-Mentor-Rock-Paper-Scissors-Lizard-Spock](https://www.frontendmentor.io/solutions/frontendmentorrockpaperscissorslizardspock-zdOyda-gAo)
 - Live Site URL: [github pages](https://gerardocianciulli.github.io/Frontend-Mentor-Rock-Paper-Scissors/)
+
+## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Normalize CSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - jQuery
+- HTML Web Storage API
+- Media Queries
 
-### Author
+## Author
 
-- Frontend Mentor - [@GerardoCianciulli](https://www.frontendmentor.io/profile/GerardoCianciulli)
+- Portfolio - [Gerardo Cianciulli](https://www.behance.net/gerardo-cianciulli)
+- Frontend Mentor - [Gerardo Cianciulli](https://www.frontendmentor.io/profile/GerardoCianciulli)
+- Linkedin - [Gerardo Cianciulli](https://www.linkedin.com/in/gerardo-cianciulli/)
+# rock-paper-scissors-game
