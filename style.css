@@ -285,12 +285,12 @@ h3 {
     margin-top: 1rem;
 }
 
-footer {
-    display: flex;
-}
-
 button {
     cursor: pointer;
+}
+
+#rules-container {
+    display: flex;
 }
 
 #rules-btn {    
@@ -348,6 +348,25 @@ h2 {
 
 .show-flex {
     display: flex;
+}
+
+.attribution { 
+    font-size: .6875rem;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white; 
+}
+
+.attribution a {
+    color: var(--divider-grey);
+    font-size: .75rem; 
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
 }
 
 @media (min-width: 725px) {
@@ -474,10 +493,5 @@ h2 {
         font-size: 2rem;
         font-weight: var(--fw-bold);
         line-height: 2rem;
-    }
-
-    footer {
-        right: 0;
-        left: unset;
     }
 }
