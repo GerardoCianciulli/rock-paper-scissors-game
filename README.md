@@ -46,7 +46,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 
 ### Links
 
-- Live Site URL: [github pages](https://gerardocianciulli.github.io/Frontend-Mentor-Rock-Paper-Scissors/)
+- Live Site URL: [github pages](https://gerardocianciulli.github.io/rock-paper-scissors-game/)
 
 ## My process
 
