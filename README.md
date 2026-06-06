@@ -1,4 +1,4 @@
-# Frontend Mentor - Rock, Paper, Scissors
+# Frontend Mentor - Rock, Paper, Scissors Solution
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./assets/design/desktop-preview.jpg)
 
@@ -66,4 +66,3 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - Portfolio - [Gerardo Cianciulli](https://www.behance.net/gerardo-cianciulli)
 - Frontend Mentor - [Gerardo Cianciulli](https://www.frontendmentor.io/profile/GerardoCianciulli)
 - Linkedin - [Gerardo Cianciulli](https://www.linkedin.com/in/gerardo-cianciulli/)
-# rock-paper-scissors-game
